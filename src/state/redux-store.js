@@ -16,6 +16,10 @@ function reducer(state, action) {
         return {...state, currentMode: action.newMode}
     }
 
+    else if (action.type === 'SET_MODE_DURATION') {
+        return {...state, currentMode: action.duration}
+    }
+
     return state
 }
 

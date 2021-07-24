@@ -1,6 +1,6 @@
 import './App.css';
-import CurrentStatus from './components/CurrentStaus/CurrentStatus';
 import UrgeWithPleasureComponent from './components/Timer/Timer';
+import ModeContainer from './components/ModeContainer/ModeContainer';
 import {useSelector} from 'react-redux'
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
     <div className="Container">
       <h1 className='zenMode'>zenMode</h1>
       <p className='levelUp'>Level Up Your Productivity.</p>
-      <CurrentStatus value={currentMode}/>
+      <ModeContainer possibleModes={possibleModes}/>
       <UrgeWithPleasureComponent className='timerCircle' timerDuration={timerMinutesDuration}/>
     </div>
   );

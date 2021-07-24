@@ -1,0 +1,8 @@
+.mode-buttons-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: space-between;
+    justify-content: center;
+    padding: 20px;
+  }
