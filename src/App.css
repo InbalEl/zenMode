@@ -1,0 +1,19 @@
+.Container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.zenMode, .levelUp {
+    color: #d9d9d9;
+}
+.levelUp {
+    font-size: 20px;
+}
+
+.zenMode {
+    margin: 0;
+    padding: 30px;
+    font-size: 70px;
+}
