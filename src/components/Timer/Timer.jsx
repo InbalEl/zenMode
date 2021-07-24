@@ -1,4 +1,4 @@
-import react from 'react'
+import './Timer.css'
 import { CountdownCircleTimer } from 'react-countdown-circle-timer'
 
 const renderTime = ({ remainingTime }) => {
@@ -16,17 +16,15 @@ const renderTime = ({ remainingTime }) => {
 
 const UrgeWithPleasureComponent = (props) => (
     <div>
-    <CountdownCircleTimer
-    isPlaying
-        duration={props.timerDuration * 60}
-        colors={[
-            ['#0c75b2', 0.33],
-            ['#4a9ecf', 0.33],
-            ['#9bcce8', 0.33]
-        ]}
-    >
-        {renderTime}
-    </CountdownCircleTimer>
+        <CountdownCircleTimer
+            isPlaying={false}
+            duration={props.timerDuration * 60}
+            colors={[
+                ['#889773', 1]
+            ]}
+        >
+            {renderTime}
+        </CountdownCircleTimer>
 
     </div>
 )
