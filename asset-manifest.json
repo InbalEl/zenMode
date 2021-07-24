@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/zenMode/static/css/main.846092ff.chunk.css",
-    "main.js": "/zenMode/static/js/main.83edd021.chunk.js",
-    "main.js.map": "/zenMode/static/js/main.83edd021.chunk.js.map",
+    "main.css": "/zenMode/static/css/main.79262408.chunk.css",
+    "main.js": "/zenMode/static/js/main.1007b7f0.chunk.js",
+    "main.js.map": "/zenMode/static/js/main.1007b7f0.chunk.js.map",
     "runtime-main.js": "/zenMode/static/js/runtime-main.87c37726.js",
     "runtime-main.js.map": "/zenMode/static/js/runtime-main.87c37726.js.map",
-    "static/js/2.a7672e5e.chunk.js": "/zenMode/static/js/2.a7672e5e.chunk.js",
-    "static/js/2.a7672e5e.chunk.js.map": "/zenMode/static/js/2.a7672e5e.chunk.js.map",
+    "static/js/2.4cb73974.chunk.js": "/zenMode/static/js/2.4cb73974.chunk.js",
+    "static/js/2.4cb73974.chunk.js.map": "/zenMode/static/js/2.4cb73974.chunk.js.map",
     "index.html": "/zenMode/index.html",
-    "static/css/main.846092ff.chunk.css.map": "/zenMode/static/css/main.846092ff.chunk.css.map",
-    "static/js/2.a7672e5e.chunk.js.LICENSE.txt": "/zenMode/static/js/2.a7672e5e.chunk.js.LICENSE.txt",
+    "static/css/main.79262408.chunk.css.map": "/zenMode/static/css/main.79262408.chunk.css.map",
+    "static/js/2.4cb73974.chunk.js.LICENSE.txt": "/zenMode/static/js/2.4cb73974.chunk.js.LICENSE.txt",
     "static/media/index.css": "/zenMode/static/media/background.6716018f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.87c37726.js",
-    "static/js/2.a7672e5e.chunk.js",
-    "static/css/main.846092ff.chunk.css",
-    "static/js/main.83edd021.chunk.js"
+    "static/js/2.4cb73974.chunk.js",
+    "static/css/main.79262408.chunk.css",
+    "static/js/main.1007b7f0.chunk.js"
   ]
 }
